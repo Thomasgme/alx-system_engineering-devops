@@ -1,2 +1,2 @@
 #!/bin/bash
-chrow betty hello
+chown betty hello
