@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -B "games" /etc/passwd
+cta /etc/passwd | grep "root"
